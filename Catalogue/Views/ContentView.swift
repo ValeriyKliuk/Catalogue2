@@ -28,6 +28,7 @@ struct ContentView: View {
                 Spacer()
             }
             .navigationTitle("Products")
+            Text("No Product selected")
         }
     }
 }
